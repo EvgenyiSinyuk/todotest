@@ -1,0 +1,14 @@
+Machine: 
+Intel Core i5 2.5 ГГц, RAM 8 ГБ
+
+Docker:
+CPU Usage: 2,5%
+Memory usage 15.5 mb
+Network i/o 49.9mb/26.4mb
+
+Responses per second: 7,7
+Latency: 131ms 
+
+Status: all users created
+
+Max user limits(if memory let this): 18 446 744 073 709 551 615
